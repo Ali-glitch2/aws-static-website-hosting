@@ -17,6 +17,7 @@
 3.Enable ACLs:
    * During bucket creation, under "Object Ownership," select ACLs enabled.
    * This allows fine-grained control over the permissions of individual objects in the bucket
+     
  ### Step 2: Upload Files
 
  1. Upload your website files
