@@ -17,7 +17,6 @@
 3.Enable ACLs:
    * During bucket creation, under "Object Ownership," select ACLs enabled.
    * This allows fine-grained control over the permissions of individual objects in the bucket
-
  ### Step 2: Upload Files
 
  1. Upload your website files
@@ -35,7 +34,7 @@
     Optionally, set a custom error document like error.html.
  < img width="2336" height="310" alt="Screenshot 2026-04-10 160632" src="https://github.com/user-attachments/assets/7f5a82b0-ac2c-43d4-9abe-e836af13415f" />
  <img width="2166" height="1051" alt="Screenshot 2026-04-10 160732" src="https://github.com/user-attachments/assets/91811a1c-4e4c-42c2-b7cf-b52027c1ca56" />
-### Step 4: Confirm the Static Website is Created
+ ### Step 4: Confirm the Static Website is Created
 <img width="2006" height="382" alt="Screenshot 2026-04-10 160806" src="https://github.com/user-attachments/assets/bf8bf624-b38c-461d-96bc-433b754bcf4f" />
 
 ##Preview:
