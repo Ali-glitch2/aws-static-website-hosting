@@ -66,3 +66,9 @@ This project demonstrates how to host a static website using **Amazon S3** as pa
 ## Preview
 
 ![Website Preview](https://github.com/user-attachments/assets/34933b7c-5fc5-48dc-aac4-4069b4e086c5)
+
+## What I Learned
+- How to create and configure an S3 bucket
+- How to enable static website hosting on S3
+- How to manage public access using bucket policies and ACLs
+- How to upload and serve static files from S3
