@@ -1,6 +1,6 @@
 # AWS S3 Static Website Hosting
 
-![Project Banner](https://github.com/user-attachments/assets/c2281b12-ec60-4dbe-8c09-340281c6f1e8)
+<img width="1131" height="386" alt="image" src="https://github.com/user-attachments/assets/c2281b12-ec60-4dce-8c09-340281c6f1e8" />
 
 ## Overview
 This project demonstrates how to host a static website using **Amazon S3** as part of the **AWS Cloud Quest - Cloud Practitioner** course. The website is publicly accessible via a URL provided by S3.
